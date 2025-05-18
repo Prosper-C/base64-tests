@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyCharm project files
+.idea/
+
+# Virtual environment
+venv/
+env/
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
+
+# GitHub Actions cache
+*.log
+*.tmp
